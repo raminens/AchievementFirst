@@ -12,7 +12,7 @@ Python 3
 
 ## Example
 
-To get Public repositories of UserName <B>raminens</B> we need to execute the following command
+To get Public repositories of UserName <B>"raminens"</B> we need to execute the following command
 
 `Python SindhuTest.py raminens`
 
