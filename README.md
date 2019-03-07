@@ -16,7 +16,7 @@ To get Public repositories of UserName <B>"raminens"</B> we need to execute the 
 
 `Python SindhuTest.py raminens`
 
-![acheivementfirstres](https://user-images.githubusercontent.com/45607121/53944551-7a139b00-4074-11e9-92ad-d98080e3098c.png)
+![acheivementfirstresult](https://user-images.githubusercontent.com/45607121/53944732-d7a7e780-4074-11e9-8742-cf3dedda3931.png)
 
 ## Other Things
 
